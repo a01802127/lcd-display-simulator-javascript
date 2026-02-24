@@ -1,9 +1,3 @@
-/******************************************
- * Práctica 1: Pantalla LCD
- * Fecha: 23 de febrero, 2026
- * Autor: A01802127 Luis Alejandro Olvera Hernández
- ******************************************/
-
 let digitos = [
   [1, 1, 1, 0, 1, 1, 1],
   [0, 0, 1, 0, 0, 1, 0],
