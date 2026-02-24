@@ -21,15 +21,9 @@ Input:
 
 lcd(2, 12345)
 
-Output:
+## Example Output
 
- --   --        --   --
-    |    |         |    |
-    |    |         |    |
- --   --   --   --   --
-|         |    |         |
-|         |    |         |
- --   --        --   --
+![LCD Display Example](example-output.png)
 
 ## Author
 
